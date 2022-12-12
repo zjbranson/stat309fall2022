@@ -1,4 +1,4 @@
-testScore,income,minority,treatment
+testScore,income,underrep,treatment
 75,8.31,no,control
 75,1.05,yes,newSTEM
 68,4.52,no,control
